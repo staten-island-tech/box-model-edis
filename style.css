@@ -2,17 +2,29 @@
     margin: 0;
     padding: 0;
 }
+
 body{
     background-image: url("media/nyc_image.jpg");
     background-size: cover;
 }
+
 .banner{
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
     text-align: center;
+    letter-spacing: 2px;
+    position: relative;
 }
 
-#sign_up{
+.text_under_banner{
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    top: 6%;
+    left: 18%;
+}
+
+.first_form{
     font-family: 'Oswald', sans-serif;
     text-align: center;
 }
+
