@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("media/nyc_image.jpg");
+    background-size: cover;
+}
+.banner{
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+#sign_up{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
